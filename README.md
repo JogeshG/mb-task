@@ -1,4 +1,7 @@
-Step 1:- Make sure that you have started xampp server(apache) or any other relevent server on your PC.
-Step 2:- copy build folder/repositery on PC(e.g. if you use xampp then copy path will be xampp\htdocs\Demos\build)
-Step 3:- run html file on browser
+Here we have two files,
 
+-->'my-app' contains test assignments in developer mode
+Go with 'my-app/README' and follow the instructions for run app.
+
+--> 'build' contains test assignments in diployment mode. 
+Go with 'build/README' and follow the instructions for run app.
